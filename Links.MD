@@ -11,8 +11,10 @@
      7. http://firstround.com/review/speed-as-a-habit/  [Speed as a Habit, from Ex-Googler]
      8. https://michaelochurch.wordpress.com/2015/07/18/technology-is-run-by-the-wrong-people/  [How & why technology is run by          -the wrong people]
      9. http://blog.longreads.com/2015/06/16/how-apples-transcendent-chihuahua-killed-the-revolution/  [Very Interesting take On        -Digital Addiction]
+     10. http://softwarecreation.org/2012/achieving-top-mental-performance-for-software-developers/
+     11. http://www.quora.com/I-am-quite-bad-at-algorithms-but-good-with-Android-and-iOS-Is-there-a-place-for-me-at-companies-like-Facebook-Palantir-Google-etc/answers/8555608
 
-									 
+
 ### Spark Primer:
      1. http://baweaver.com/blog/2015/06/20/a-functional-programming-primer-for-spark/
      2. http://baweaver.com/blog/2015/06/21/intro-to-spark/
