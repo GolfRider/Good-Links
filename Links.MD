@@ -36,3 +36,7 @@
      2. http://baweaver.com/blog/2015/06/21/intro-to-spark/
 
 
+### Time Management:
+     1. https://www.linkedin.com/pulse/why-your-to-do-list-killing-performance-tom-popomaronis  [Why Todo list is not enough]
+     2. https://www.linkedin.com/pulse/how-being-busy-makes-you-less-productive-dr-travis-bradberry (Multitasking isn't good)
+
