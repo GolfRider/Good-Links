@@ -34,6 +34,9 @@
 ### Spark Primer:
      1. http://baweaver.com/blog/2015/06/20/a-functional-programming-primer-for-spark/
      2. http://baweaver.com/blog/2015/06/21/intro-to-spark/
+     
+### Machine Learning:
+     1. http://xyclade.github.io/MachineLearning/  [Good Machine Learning Primer]
 
 
 ### Time Management:
