@@ -42,4 +42,7 @@
 ### Time Management:
      1. https://www.linkedin.com/pulse/why-your-to-do-list-killing-performance-tom-popomaronis  [Why Todo list is not enough]
      2. https://www.linkedin.com/pulse/how-being-busy-makes-you-less-productive-dr-travis-bradberry (Multitasking isn't good)
+     
+### Choice (Why it is not a good thing many times ?)
+     1. http://www.theguardian.com/lifeandstyle/2015/oct/21/choice-stressing-us-out-dating-partners-monopolies
 
