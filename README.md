@@ -83,6 +83,9 @@
     3. "Hate the sin, love the sinner" - Mahatma Gandhi
     
     4. "Without music, life would be a mistake." - Friedrich Nietzsche
+    
+### Habits (How to change them for good ?)
+    1. http://charlesduhigg.com/how-habits-work/
 
 
 
