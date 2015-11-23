@@ -29,6 +29,7 @@
      25. https://www.expeditedssl.com/aws-in-plain-english
      26. https://speakerdeck.com/agemooij/between-zero-and-hero-scala-tips-and-tricks-for-the-intermediate-scala-developer
      27. https://en.wikipedia.org/wiki/Uncertainty_reduction_theory  [How to reduce COGNITIVE stress during initial interactions]
+     28. http://blog.ikura.co/posts/erlang-beauty.html
 
 
 ### Spark Primer:
@@ -59,6 +60,14 @@
      
 ### Inspiration
      1. http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html [Amazing Read]
+     2. Innovation is saying NO to 1000 things.
+     3. SUCCESS is more defined by choosing what NOT to do rather than by choosing what to do.
+        Ofcourse one has to plan & execute the things after that.
+     4. TIME is more important than MONEY.
+     5. HEALTH is more important than WEALTH
+     6. LUCK IS a important factor, but stay unworried if it doesn't happens to you.
+     7. LIFE can be enjoyed even without LUCK.
+     
      
 ### Self Help
      1. Practice the art of saying "NO", it helps you to focus on your goals.
