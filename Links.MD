@@ -55,7 +55,8 @@
 ### Quotes
     1. "If it's your job to eat a frog, it's best to do it first thing in the morning. 
         And If it's your job to eat two frogs, it's best to eat the biggest one first." - Mark Twain
-    2. "All things are subject to interpretation whichever interpretation prevails at a given time is a function of power and        not truth."  - Friedrich Nietzsche
+    2. "All things are subject to interpretation whichever interpretation prevails at a 
+        given time is a function of power and not truth."  - Friedrich Nietzsche
     3. "Hate the sin, love the sinner" - Mahatma Gandhi
     4. "Without music, life would be a mistake." - Friedrich Nietzsche
 
