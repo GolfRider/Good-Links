@@ -45,4 +45,9 @@
      
 ### Choice (Why it is not a good thing many times ?)
      1. http://www.theguardian.com/lifeandstyle/2015/oct/21/choice-stressing-us-out-dating-partners-monopolies
+     
+### Inspiration
+     1. http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html [Amazing Read]
+     
+### Quotes     
 
