@@ -49,5 +49,15 @@
 ### Inspiration
      1. http://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html [Amazing Read]
      
-### Quotes     
+### Self Help
+     1. Practice the art of saying "NO", it helps you to focus on your goals.
+        Please Read this : http://www.nirandfar.com/2013/09/the-power-of-no.html
+### Quotes
+    1. "If it's your job to eat a frog, it's best to do it first thing in the morning. 
+        And If it's your job to eat two frogs, it's best to eat the biggest one first." - Mark Twain
+    2. "All things are subject to interpretation whichever interpretation prevails at a given time is a function of power and        not truth."  - Friedrich Nietzsche
+    3. "Hate the sin, love the sinner" - Mahatma Gandhi
+    4. "Without music, life would be a mistake." - Friedrich Nietzsche
+
+
 
