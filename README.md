@@ -40,8 +40,19 @@
 
 
 ### Time Management:
+     1. Wake up early [5:30 am]
+     2. Prioritise tasks &  plan your day
+     3. Keep a time-journal, evaluate,revise your goals/ approaches
+     4. Say NO to any distracting things, it helps you keep focused & unburdens you from many unnecessary things.Earns more time.
+     5. "Innovation is saying NO to 1000 things" - STEVE JOBS
+     6. Plan your Life & Carreer. Most of us are naturally not quite good at this. Practice. Practice, it gets better.
+     7. Spend time in time-planning.
+     8. Failing to set some time for planning is often the primary reason for poor time management.
+     9. Keep a list of things, MIND is not good at remembering things, it is good at executing things. Remember that.
+     
      1. https://www.linkedin.com/pulse/why-your-to-do-list-killing-performance-tom-popomaronis  [Why Todo list is not enough]
      2. https://www.linkedin.com/pulse/how-being-busy-makes-you-less-productive-dr-travis-bradberry (Multitasking isn't good)
+     
      
 ### Choice (Why it is not a good thing many times ?)
      1. http://www.theguardian.com/lifeandstyle/2015/oct/21/choice-stressing-us-out-dating-partners-monopolies
