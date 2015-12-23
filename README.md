@@ -67,6 +67,8 @@
      5. HEALTH is more important than WEALTH
      6. LUCK IS a important factor, but stay unworried if it doesn't happens to you.
      7. LIFE can be enjoyed even without LUCK.
+     8. Always have Enthusiasm in everything you do, irrespective of the situations [Indian Philosopher]
+     
      
      
 ### Self Help
