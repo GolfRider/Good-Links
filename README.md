@@ -86,6 +86,13 @@
     
 ### Habits (How to change them for good ?)
     1. http://charlesduhigg.com/how-habits-work/
+    
+### Data Structures & Algorithms
+   1. http://www.mathcs.emory.edu/~cheung/Courses/171/Syllabus/syl.html#CURRENT  [Good intuitive description + diagrams]
+   2. https://www.cs.cmu.edu/~adamchik/15-121/lectures/ [Simple Explaination + Examples in Java]
+   3. https://www.cs.berkeley.edu/~jrs/61b/  [Good & short lecture notes]
+   4. http://www3.cs.stonybrook.edu/~skiena/214/lectures/index.html  [Steven Skiena's lecture notes]
+    
 
 
 
