@@ -74,6 +74,8 @@
 ### Self Help
      1. Practice the art of saying "NO", it helps you to focus on your goals.
         Please Read this : http://www.nirandfar.com/2013/09/the-power-of-no.html
+     2. https://www.linkedin.com/pulse/skip-resolutions-break-habit-2016-liz-ryan 
+        [Stop crticizing youself, don't let your mind act on other's behalf during their absence]    
 ### Quotes
     1. "If it's your job to eat a frog, it's best to do it first thing in the morning. 
         And If it's your job to eat two frogs, it's best to eat the biggest one first."
