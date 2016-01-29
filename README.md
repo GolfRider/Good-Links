@@ -41,6 +41,7 @@
 
 
 ### Time Management:
+     0. Get 5 mins into any activity, to get started [that is how you can avoid procastination]
      1. Wake up early [5:30 am]
      2. Prioritise tasks &  plan your day
      3. Keep a time-journal, evaluate,revise your goals/ approaches
