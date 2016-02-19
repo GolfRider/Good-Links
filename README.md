@@ -104,4 +104,12 @@
 ### Distributed Systems
     1. http://bravenewgeek.com/from-the-ground-up-reasoning-about-distributed-systems-in-the-real-world/
     
-    
+### Data Visualization
+    1. Plottable (http://plottablejs.org/)
+    2. Vega (Write JSON specification, and then pass it to runtime engine which is built over D3 )
+    3. Bokeh (http://bokeh.pydata.org/en/latest/docs/reference/bokehjs.html) [+ Python,R,Scala Bindings ]  
+         [Probably Used at ThoughtWorks too, as it is mentioned on thier site ]
+    4. Chartist (http://gionkunz.github.io/chartist-js/)
+    Notes: 
+    1. http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries
+    2. http://2014.jsconf.eu/speakers/dan-mane-why-are-there-so-many-javascript-charting-libraries.html  [Amazing Talk..!!]
