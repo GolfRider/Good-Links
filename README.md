@@ -112,4 +112,4 @@
     4. Chartist (http://gionkunz.github.io/chartist-js/)
     Notes: 
     1. http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries
-    2. http://2014.jsconf.eu/speakers/dan-mane-why-are-there-so-many-javascript-charting-libraries.html [Great Talk !!]
+    2. http://2014.jsconf.eu/speakers/dan-mane-why-are-there-so-many-javascript-charting-libraries.html [Cool]
