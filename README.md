@@ -127,7 +127,7 @@
      g. Going to buffet,shopping mall often results in decision-fatigue
      h. Zuckerberg,Jobs often wear/wore the same attire for their day job, 
         because they don't want to spend their mental energy on it.
-     i. It can affect our productivity, and can impact us emotiionally,so we should be VERY mindful of that.     
+     i. It can affect our productivity, and can impact us emotionally,so we should be VERY mindful of that.     
          
      
     
