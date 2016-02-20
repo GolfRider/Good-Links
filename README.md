@@ -129,5 +129,9 @@
         because they don't want to spend their mental energy on it.
      i. It can affect our productivity, and can impact us emotionally,so we should be VERY mindful of that.     
          
+### Interesting Projects
+    1. https://ipfs.io/  (IPFS is a peer-to-peer distributed file system,like Git)
+
+         
      
     
