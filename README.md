@@ -113,3 +113,19 @@
     Notes: 
     1. http://thenextweb.com/dd/2015/06/12/20-best-javascript-chart-libraries
     2. http://2014.jsconf.eu/speakers/dan-mane-why-are-there-so-many-javascript-charting-libraries.html [Cool]
+    
+### Decision Fatigue
+    1. http://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html (Great Read)
+    Points:
+     a. Having too many choices exhausts the mind, which can strongly impact your final decision
+     b. Make important decisions early in the day, not later 
+     c. Eliminate unnecessary choices
+     d. Spend your mental energy on Important matters that actually ipmact your career/personal life
+     e. Don't be in a indecisive state for long time, it will result in frustration
+     f. One of the reason for decision fatigue is the fear of giving up on options.
+     g. Going to buffet,shopping mall often results in decision-fatigue
+     h. Zuckerberg,Jobs often wear the same attire for their day job, 
+        because they don't want to spend their mental energy on it.
+         
+     
+    
