@@ -116,7 +116,7 @@
     
 ### Decision Fatigue
     1. http://www.nytimes.com/2011/08/21/magazine/do-you-suffer-from-decision-fatigue.html (Great Read)
-    Points:
+    *Some Points:
      a. Having too many choices exhausts the mind, which can strongly impact your final decision
      b. Make important decisions early in the day, not later 
      c. Eliminate unnecessary choices
