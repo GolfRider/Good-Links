@@ -125,7 +125,7 @@
      e. Don't be in a indecisive state for long time, it will result in frustration
      f. One of the reason for decision fatigue is the fear of giving up on options.
      g. Going to buffet,shopping mall often results in decision-fatigue
-     h. Zuckerberg,Jobs often wear the same attire for their day job, 
+     h. Zuckerberg,Jobs often wear/wore the same attire for their day job, 
         because they don't want to spend their mental energy on it.
          
      
