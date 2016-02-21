@@ -131,7 +131,7 @@
          
 ### Interesting Projects
     1. https://ipfs.io/  (IPFS is a peer-to-peer distributed file system,like Git)
-
+    2. http://www.bloomberg.com/features/2015-george-hotz-self-driving-car/ [Self Driving Car designed by One Guy] 
          
 ### Self Forgiveness + Let it go 
     #####You can't control as much as you think you can + permit yourself to be human
@@ -140,4 +140,11 @@
     "You need to see lessons where you see barriers."
     "Sometimes we're not yet the people we need to be in order to contain the desires we have. 
      Sometimes we have to let ourselves evolve into the place where we can allow what we want to transpire."
+     
+### Computing Future: What's Next ?
+    https://medium.com/@cdixon/what-s-next-in-computing-e54b870b80cc
+    “The business plans of the next 10,000 startups are easy to forecast: Take X and add AI. This is a big deal, and now it’s     
+     here.” — Kevin Kelly
+     
+     
     
