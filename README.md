@@ -133,5 +133,11 @@
     1. https://ipfs.io/  (IPFS is a peer-to-peer distributed file system,like Git)
 
          
-     
+### Self Forgiveness + Let it go 
+    #####You can't control as much as you think you can + permit yourself to be human
+    1. http://www.huffingtonpost.com/jamie-varon/to-anyone-who-thinks-theyre-falling-behind_b_9190758.html
+    Quoting from above:
+    "You need to see lessons where you see barriers."
+    "Sometimes we're not yet the people we need to be in order to contain the desires we have. 
+     Sometimes we have to let ourselves evolve into the place where we can allow what we want to transpire."
     
