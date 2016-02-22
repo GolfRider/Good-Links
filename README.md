@@ -132,7 +132,8 @@
 ### Interesting Projects
     1. https://ipfs.io/  (IPFS is a peer-to-peer distributed file system,like Git)
     2. http://www.bloomberg.com/features/2015-george-hotz-self-driving-car/ [Self Driving Car designed by One Guy] 
-         
+    3. https://www.brain.fm (+Interesting quotes on mind power)
+       
 ### Self Forgiveness + Let it go 
     #####You can't control as much as you think you can + permit yourself to be human
     1. http://www.huffingtonpost.com/jamie-varon/to-anyone-who-thinks-theyre-falling-behind_b_9190758.html
