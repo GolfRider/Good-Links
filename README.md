@@ -144,8 +144,11 @@
      
 ### Computing Future: What's Next ?
     https://medium.com/@cdixon/what-s-next-in-computing-e54b870b80cc
-    “The business plans of the next 10,000 startups are easy to forecast: Take X and add AI. This is a big deal, and now it’s     
-     here.” — Kevin Kelly
+    “The business plans of the next 10,000 startups are easy to forecast: Take X and add AI. 
+     This is a big deal, and now it’s here.” — Kevin Kelly
+     
+### Functional Programming
+    http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/
      
      
     
