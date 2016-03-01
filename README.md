@@ -165,3 +165,4 @@
                     Consistency can be sacrificed to achieve completeness if simplicity is retained; especially worthless is     
                     consistency of interface.
     For more: http://www.dreamsongs.com/RiseOfWorseIsBetter.html [Pretty Good article]
+    http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html
