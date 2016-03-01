@@ -158,9 +158,10 @@
     Consistency -- the design must not be overly inconsistent. Consistency can be sacrificed for simplicity in some cases, 
                     but it is better to drop those parts of the design that deal with less common circumstances 
                     than to introduce either implementational complexity or inconsistency.
-    Completeness -- the design must cover as many important situations as is practical. All reasonably expected cases should be                           covered. Completeness can be sacrificed in favor of any other quality. 
+    Completeness -- the design must cover as many important situations as is practical. 
+                    All reasonably expected cases should be covered. 
+                    Completeness can be sacrificed in favor of any other quality. 
                     In fact, completeness must be sacrificed whenever implementation simplicity is jeopardized. 
                     Consistency can be sacrificed to achieve completeness if simplicity is retained; especially worthless is     
                     consistency of interface.
-    
-For more: http://www.dreamsongs.com/RiseOfWorseIsBetter.html [Pretty Good article]
+    For more: http://www.dreamsongs.com/RiseOfWorseIsBetter.html [Pretty Good article]
