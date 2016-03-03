@@ -186,3 +186,6 @@
     4. “Abstraction is sometimes harmful”
 
     5. Duplication is far cheaper than the wrong abstraction. Just deciding which little details we need to expose on our abstractions         can be difficult, particularly when we don’t know how they will be used. 
+    
+    6. The programmer complains that there’s not enough abstraction for a hard sub-problem. Indeed, the programmer doesn’t care about 	solving the sub-problem. They are focused on solving the greater problem at hand. So, as any good programmer would do, we build an 		abstraction for the hard sub-problem, mask its inner workings, and expose what we think is necessary for interacting with 	it. But then we discover that the abstraction leaks and complain that it isn’t perfect. It turns out, hard problems are hard. 		The programmer then simply does away with the abstraction and solves the sub-problem for their specific case, handling the 		complexity in a way that makes sense for their application.
+
