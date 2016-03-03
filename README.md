@@ -166,3 +166,23 @@
                     consistency of interface.
     For more: http://www.dreamsongs.com/RiseOfWorseIsBetter.html [Pretty Good article]
     http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html
+    
+### Abstractions (Rigid vs Fluid)
+    https://dzone.com/articles/abstraction-considered-harmful [Good One]
+    Sometimes Abstractions can be leaky when the underlying problem is sufficiently complex.
+    In such cases, our abstractions have to be fluid rather than being static.
+    
+    0. "The purpose of abstracting is not to be vague, but to create a new semantic level in which one can be absolutely precise." - E Dijkstra
+
+    1. The key takeaway is that abstractions leak, and we have to deal with that. There is never a silver bullet for problems of             sufficient complexity.
+
+    2. [Let’s] not make concrete, static abstractions. Trust ourselves to let ourselves peer below the facade. 
+        There’s a lot of complexity down there, but we need to engage with that complexity. 
+	    We need tools that help us engage with the complexity, not a fire blanket. Abstractions are going to leak, so make the                abstractions fluid.
+
+    3. Abstraction, in and of itself, is not harmful. On the contrary, it’s necessary for progress. 
+        What’s harmful is relying on impenetrable barriers to protect our precious programmers from hard problems. After all, the             21st-century engineer understands that in order to play in the sand, we all need to be comfortable getting our feet a little          wet from time to time.
+   
+    4. “Abstraction is sometimes harmful”
+
+    5. Duplication is far cheaper than the wrong abstraction. Just deciding which little details we need to expose on our abstractions         can be difficult, particularly when we don’t know how they will be used. 
