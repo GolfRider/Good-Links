@@ -174,18 +174,32 @@
     
     0. "The purpose of abstracting is not to be vague, but to create a new semantic level in which one can be absolutely precise." - E Dijkstra
 
-    1. The key takeaway is that abstractions leak, and we have to deal with that. There is never a silver bullet for problems of             sufficient complexity.
+    1. The key takeaway is that abstractions leak, and we have to deal with that. 
+    	There is never a silver bullet for problems of             sufficient complexity.
 
     2. [Let’s] not make concrete, static abstractions. Trust ourselves to let ourselves peer below the facade. 
-        There’s a lot of complexity down there, but we need to engage with that complexity. 
-	    We need tools that help us engage with the complexity, not a fire blanket. Abstractions are going to leak, so make the                abstractions fluid.
-
+       There’s a lot of complexity down there, but we need to engage with that complexity. 
+	We need tools that help us engage with the complexity, not a fire blanket. 
+	Abstractions are going to leak, so make the abstractions fluid.
+	
     3. Abstraction, in and of itself, is not harmful. On the contrary, it’s necessary for progress. 
-        What’s harmful is relying on impenetrable barriers to protect our precious programmers from hard problems. After all, the             21st-century engineer understands that in order to play in the sand, we all need to be comfortable getting our feet a little          wet from time to time.
+        What’s harmful is relying on impenetrable barriers to protect our precious programmers from hard problems. 
+        After all, the 21st-century engineer understands that in order to play in the sand, 
+        we all need to be comfortable getting our feet a little wet from time to time.
    
     4. “Abstraction is sometimes harmful”
-
-    5. Duplication is far cheaper than the wrong abstraction. Just deciding which little details we need to expose on our abstractions         can be difficult, particularly when we don’t know how they will be used. 
+    5. Duplication is far cheaper than the wrong abstraction. 
+	Just deciding which little details we need to expose on our abstractions
+	can be difficult, particularly when we don’t know how they will be used. 
     
-    6. The programmer complains that there’s not enough abstraction for a hard sub-problem. Indeed, the programmer doesn’t care about 	solving the sub-problem. They are focused on solving the greater problem at hand. So, as any good programmer would do, we build an 		abstraction for the hard sub-problem, mask its inner workings, and expose what we think is necessary for interacting with 	it. But then we discover that the abstraction leaks and complain that it isn’t perfect. It turns out, hard problems are hard. 		The programmer then simply does away with the abstraction and solves the sub-problem for their specific case, handling the 		complexity in a way that makes sense for their application.
+    6. The programmer complains that there’s not enough abstraction for a hard sub-problem. 
+    	Indeed, the programmer doesn’t care about solving the sub-problem. 
+    	They are focused on solving the greater problem at hand. 
+    	So, as any good programmer would do, we build an abstraction for the hard sub-problem, mask its inner workings, 
+    	and expose what we think is necessary for interacting with it. 
+    	
+   7.  	But then we discover that the abstraction leaks and complain that it isn’t perfect. 
+   8.  	It turns out, hard problems are hard. The programmer then simply does away 
+   	with the abstraction and solves the sub-problem for their specific case, handling the 
+ 	complexity in a way that makes sense for their application.
 
