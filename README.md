@@ -201,7 +201,7 @@
    	with the abstraction and solves the sub-problem for their specific case, handling the 
  	complexity in a way that makes sense for their application.
 
-### Simple Programming
+### Simple Programming & Why it matters
 	1. https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308 
 	[ Read the above link, pretty awesome]
 	Simplify your code. Start with the least complicated implementation and 
