@@ -202,7 +202,8 @@
  	complexity in a way that makes sense for their application.
 
 ### Simple Programming
-	1. https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308 [Great link]
+	1. https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308 
+	[ Read the above link, pretty awesome]
 	Simplify your code. Start with the least complicated implementation and 
 	work your way toward more complex solutions only when 	the problem demands it.
 	
