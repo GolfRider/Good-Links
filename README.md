@@ -201,3 +201,16 @@
    	with the abstraction and solves the sub-problem for their specific case, handling the 
  	complexity in a way that makes sense for their application.
 
+### Simple Programming
+	1. https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308 [Great link]
+	Simplify your code. Start with the least complicated implementation and work your way toward more complex solutions only when 	the problem demands it.
+	Remember:
+	a. Keep It Stupid Simple (KISS)
+	b. Make it work, make it right, make it fast.
+	c. Understand the problem. (Know what “make it work” means.)
+	d. Begin at the beginning.
+	e. Start with tests.
+	f. Do One Thing (DOT).
+	g. Start small and iterate.
+	h. Pure function > Function > Factory > Class
+	i. Simple beats clever every day of the week.
