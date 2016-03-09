@@ -217,3 +217,6 @@
 	g. Start small and iterate.
 	h. Pure function > Function > Factory > Class
 	i. Simple beats clever every day of the week.
+### Fear
+	1. "Fear is not telling you the truth"    - Deepak Chopra
+	For more: https://www.linkedin.com/pulse/better-way-get-over-your-anxiety-deepak-chopra-md-official
