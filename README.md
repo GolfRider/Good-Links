@@ -220,3 +220,6 @@
 ### Fear
 	1. "Fear is not telling you the truth"    - Deepak Chopra
 	For more: https://www.linkedin.com/pulse/better-way-get-over-your-anxiety-deepak-chopra-md-official
+
+### Promises (Javascript)
+	1. https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html (great article on promise & how to troubleshoot them)
