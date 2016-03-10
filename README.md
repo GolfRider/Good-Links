@@ -226,3 +226,4 @@
 ### Success for change (How to achieve it)
 	"You will never change your life until you change something you do daily.
 	The secret of your success is found in your daily routine" -- Great Quote..!!
+	"You are closer than you think" -- LinkedIn Quote
