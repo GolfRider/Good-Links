@@ -223,3 +223,6 @@
 
 ### Promises (Javascript)
 	1. https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html (great article on promise & how to troubleshoot them)
+### Success for change (How to achieve it)
+	"You will never change your life until you change something you do daily.
+	The secret of your success is found in your daily routine" -- Great Quote..!!
