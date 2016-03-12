@@ -227,3 +227,6 @@
 	"You will never change your life until you change something you do daily.
 	The secret of your success is found in your daily routine" -- Great Quote..!!
 	"You are closer than you think" -- LinkedIn Quote
+
+### There is life beyond technology (and we are not super humans)
+	1. http://michaeldehaan.net/post/140649196217/the-phoenix-is-not-burnt-out-it-is-just-rebooting
