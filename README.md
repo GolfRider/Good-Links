@@ -230,3 +230,11 @@
 
 ### There is life beyond technology (and we are not super humans)
 	1. http://michaeldehaan.net/post/140649196217/the-phoenix-is-not-burnt-out-it-is-just-rebooting
+	
+### Productivity (small & daily periods of intense work)
+	1. http://plumshell.com/2016/03/10/work-for-only-3-hours-a-day-but-everyday/
+	2. DHH & Taleb : 4 hours per day is the net productive work, if you have to remain productive for longer periods
+### Software Quotes
+	1. "The purpose of abstraction is not to be vague, but to create a new semantic level in
+	   which one can be absolutely precise.” - E Djkistra
+	
