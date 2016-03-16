@@ -238,3 +238,5 @@
 	1. "The purpose of abstraction is not to be vague, but to create a new semantic level in
 	   which one can be absolutely precise.” - E Djkistra
 	
+### Risk Management
+	1. https://www.linkedin.com/pulse/data-architecture-anti-fraud-kenny-shi
