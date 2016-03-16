@@ -240,3 +240,6 @@
 	
 ### Risk Management
 	1. https://www.linkedin.com/pulse/data-architecture-anti-fraud-kenny-shi
+
+### Cognitive Bias, Improve your decision making, General improvement techniques & lots more....
+	1. http://www.clearerthinking.org/  [Amazing]
