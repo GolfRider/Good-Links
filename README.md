@@ -254,4 +254,11 @@
 	7. DESIGN your time, not just MANAGE it..!!
 	8. TIME IS LIMITED, YOU CAN"T DO EVERYTHING IN A DAY'S TIME
 	9. http://www.fastcompany.com/3057847/how-to-be-a-success-at-everything/this-googler-explains-how-to-design-your-time-rather-than-
-	2. http://www.fastcompany.com/3057847/how-to-be-a-success-at-everything/this-googler-explains-how-to-design-your-time-rather-than-
+	10. One popular way to map out a plan (STRATEGIC) is by using the acronym SMART:
+
+		Specific: Write down exactly what you want to achieve.
+		Measurable: How are you going to assess when you’re done? Make sure you define it.
+		Achievable: Is this doable? What do you need in place to get this done?
+		Realistic: Be pragmatic. How can you actually make this happen? What might stand in your way? How can you avoid and/or 		bounce back from potential pitfalls?
+		Timeline: Will this task take an hour or a month? Set aside the time you’ll need, and protect it.
+
