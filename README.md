@@ -243,3 +243,15 @@
 
 ### Cognitive Bias, Improve your decision making, General improvement techniques & lots more....
 	1. http://www.clearerthinking.org/  [Amazing]
+
+### Googler's approach to Time Management
+	1. Divide your time/work into 4 quadrants
+	2. Saying NO is necessary , when you think your time could be spent better elsewhere
+	3. You should feel , you are doing something meaningful
+	4. Be in a driver's seat of atleast one thing - no matter how small/official/un-official it could be
+	5. It makes you feel good, which is very important
+	6. Think the big picture
+	7. DESIGN your time, not just MANAGE it..!!
+	8. TIME IS LIMITED, YOU CAN"T DO EVERYTHING IN A DAY'S TIME
+	9. http://www.fastcompany.com/3057847/how-to-be-a-success-at-everything/this-googler-explains-how-to-design-your-time-rather-than-
+	2. http://www.fastcompany.com/3057847/how-to-be-a-success-at-everything/this-googler-explains-how-to-design-your-time-rather-than-
