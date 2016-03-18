@@ -259,6 +259,7 @@
 		Specific: Write down exactly what you want to achieve.
 		Measurable: How are you going to assess when you’re done? Make sure you define it.
 		Achievable: Is this doable? What do you need in place to get this done?
-		Realistic: Be pragmatic. How can you actually make this happen? What might stand in your way? How can you avoid and/or 		bounce back from potential pitfalls?
+		Realistic: Be pragmatic. How can you actually make this happen? What might stand in your way? 
+		How can you avoid and/or bounce back from potential pitfalls?
 		Timeline: Will this task take an hour or a month? Set aside the time you’ll need, and protect it.
 
