@@ -263,3 +263,12 @@
 		How can you avoid and/or bounce back from potential pitfalls?
 		Timeline: Will this task take an hour or a month? Set aside the time you’ll need, and protect it.
 
+### Planning Efectively
+	1. Hapiness is Success , Hapiness is a journey, not a destination.
+	2. Hapinesss can have great impact on one's career & Productivity
+	3. Plan for reality, not fantasy : plan for only now, everything in the future is going to change 
+	4. & it is not worth our time
+	5. Don't fall in love with the plan
+	6. Reduce the number of varibles , so it reduces your confusion
+	7. Success is measured by your happiness not by your accomplishments
+	8. Above all,Keep things simple
