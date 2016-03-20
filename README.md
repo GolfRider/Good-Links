@@ -272,3 +272,11 @@
 	6. Reduce the number of varibles , so it reduces your confusion
 	7. Success is measured by your happiness not by your accomplishments
 	8. Above all,Keep things simple
+
+### Art of Money
+	1. https://www.fourmilab.ch/etexts/www/barnum/moneygetting/
+	
+### Enterpreneurship
+	1. http://joshuaspodek.com/dont-become-entrepreneur, [Everything starts from a problem,people are facing...]
+	
+
