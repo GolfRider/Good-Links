@@ -282,4 +282,9 @@
 ### Enterpreneurship
 	1. http://joshuaspodek.com/dont-become-entrepreneur, [Everything starts from a problem,people are facing...]
 	
+### Failure Of Agile
+	1. https://dzone.com/articles/why-engineers-despise-agile
+	2. http://blog.toolshed.com/2015/05/the-failure-of-agile.html
+	
+	
 
