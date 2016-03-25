@@ -88,6 +88,9 @@
     3. "Hate the sin, love the sinner" - Mahatma Gandhi
     
     4. "Without music, life would be a mistake." - Friedrich Nietzsche
+    5. "Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity"
+                                                                                              - George S. Patton
+
     
 ### Habits (How to change them for good ?)
     1. http://charlesduhigg.com/how-habits-work/
