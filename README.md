@@ -287,4 +287,5 @@
 	2. http://blog.toolshed.com/2015/05/the-failure-of-agile.html
 	
 	
-
+### Rejection Therapy
+	1. http://rejectiontherapy.com/  ["Rejection is success with Rejection Therapy"]
