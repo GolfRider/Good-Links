@@ -291,5 +291,8 @@
 	1. http://rejectiontherapy.com/  ["Rejection is success with Rejection Therapy"]
 
 ### Promises / Functional Approach
-	“So we’ve created a correct optimizing module loader with barely any code, simply by using a graph of lazy promises. We’ve 		taken the functional programming approach of using value relationships rather than explicit control flow to solve the 			problem, and it was much easier than if we’d written the control flow ourselves as the main element in the solution.”
+	“So we’ve created a correct optimizing module loader with barely any code, simply by using a graph of lazy promises. 
+	We’ve taken the functional programming approach of using value relationships rather than explicit control flow 
+	to solve the problem, and it was much easier than if we’d written the control flow ourselves as the main element 
+	in the solution.”
 	— Callbacks are Imperative, Promises are Functional by @jcoglan
