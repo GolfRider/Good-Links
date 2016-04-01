@@ -90,6 +90,7 @@
     4. "Without music, life would be a mistake." - Friedrich Nietzsche
     5. "Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity"
                                                                                               - George S. Patton
+    6. "Formal education will make you a living; self-education will make you a fortune." - Jim Rohn                                                                                         
 
     
 ### Habits (How to change them for good ?)
