@@ -297,3 +297,6 @@
 	to solve the problem, and it was much easier than if we’d written the control flow ourselves as the main element 
 	in the solution.”
 	— Callbacks are Imperative, Promises are Functional by @jcoglan
+
+### Guide to a good life
+	1. http://becomingeden.com/summary-of-a-guide-to-the-good-life/  [Check this..!!]
