@@ -300,3 +300,8 @@
 
 ### Guide to a good life
 	1. http://becomingeden.com/summary-of-a-guide-to-the-good-life/  [Check this..!!]
+
+### Microservices / Distributed Systems 
+	1. www.mammatustech.com/java-microservices-architecture  [Great Read + Great links on Microservice/Modern Architectures]
+	2. https://programmaticponderings.wordpress.com/2016/02/15/diving-deeper-into-getting-started-with-spring-cloud/  
+	3.  [On Spring Cloud]
