@@ -305,3 +305,20 @@
 	1. www.mammatustech.com/java-microservices-architecture  [Great Read + Great links on Microservice/Modern Architectures]
 	2. https://programmaticponderings.wordpress.com/2016/02/15/diving-deeper-into-getting-started-with-spring-cloud/  
 	3.  [On Spring Cloud]
+
+### Leadership & It Future
+	1. Whole Life Leadership works from the mental model that we are all leaders in all areas of our lives, title or not.
+	2. We have to be clear on our vision, our purpose and our values.
+	3. Vision: 
+		Our Vision acts as our North Star. It guides us and answers the question of, 
+		“what am I out to accomplish?”
+	4. Purpose: 
+		Our purpose or mission is our driver and our motivation. 
+		It answers the key question, “why do I want to do this?”
+	5. Values: 
+		Our values are like our compass and they help us answer the questions like, 
+		“is this aligned with what is important to me?”
+	6. We have the ability within us to be leaders in every aspect of our lives.
+	7. Side notes from another blog:
+		1. It is all about being DOERS
+		2. If experts say, it is impossible, it is time to get a different expert.
