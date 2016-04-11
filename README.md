@@ -322,3 +322,8 @@
 	7. Side notes from another blog:
 		1. It is all about being DOERS
 		2. If experts say, it is impossible, it is time to get a different expert.
+		3. New is not necessarily better, but it always provides opportunity
+	8. We all have to be leaders at work, home & with friends
+		
+### 12 Startups in 12 Months
+	1. https://levels.io/12-startups-12-months/   [Great Practical Wisdom on actual startups..!!]
