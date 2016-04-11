@@ -90,7 +90,10 @@
     4. "Without music, life would be a mistake." - Friedrich Nietzsche
     5. "Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity"
                                                                                               - George S. Patton
-    6. "Formal education will make you a living; self-education will make you a fortune." - Jim Rohn                                                                                         
+    6. "Formal education will make you a living; self-education will make you a fortune." - Jim Rohn     
+    7.	Processes will help you reach 80%, remaining 20% has to be met by attitude
+    8.  Ever tried. Ever failed. No matter. Try Again. Fail again. Fail BETTER.
+
 
     
 ### Habits (How to change them for good ?)
@@ -334,4 +337,4 @@
 	   without even launching them
 	5. "Procrastination is one of the most common and deadliest of diseases 
 		and its toll on success and happiness is heavy"
-	6. Let's do things, Let's finish things..!!
+	6. Let's do things, Let's finish things now onwards..!!
