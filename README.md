@@ -324,6 +324,14 @@
 		2. If experts say, it is impossible, it is time to get a different expert.
 		3. New is not necessarily better, but it always provides opportunity
 	8. We all have to be leaders at work, home & with friends
+	9. http://www.careermetis.com/the-future-of-leadership/ 
 		
 ### 12 Startups in 12 Months
 	1. https://levels.io/12-startups-12-months/   [Great Practical Wisdom on actual startups..!!]
+	2. We like the feeling of starting something “new”, we despise the feeling of finishing something “old”.
+	3. We have one problem: Finishing things. 
+	4. When our projects are close to finish, we forget about them and go to the next one, 
+	   without even launching them
+	5. "Procrastination is one of the most common and deadliest of diseases 
+		and its toll on success and happiness is heavy"
+	6. Let's do things, Let's finish things..!!
