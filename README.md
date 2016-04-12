@@ -338,3 +338,8 @@
 	5. "Procrastination is one of the most common and deadliest of diseases 
 		and its toll on success and happiness is heavy"
 	6. Let's do things, Let's finish things now onwards..!!
+	7. 
+	
+### Be Decisive
+	"1. Be decisive. Right or wrong, make a decision.
+	2. The road of life is paved with flat squirrels, who couldn't make a decision.  " - Unknown
