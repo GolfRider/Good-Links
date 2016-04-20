@@ -343,3 +343,6 @@
 ### Be Decisive
 	"1. Be decisive. Right or wrong, make a decision.
 	2. The road of life is paved with flat squirrels, who couldn't make a decision.  " - Unknown
+
+### Some practical/interesting applications using Algorithms
+	1. http://stevehanov.ca/blog/index.php?id=144  [Something to learn there...]
