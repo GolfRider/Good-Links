@@ -346,3 +346,8 @@
 
 ### Some practical/interesting applications using Algorithms
 	1. http://stevehanov.ca/blog/index.php?id=144  [Something to learn there...]
+### James Altucher  - A hero in his own way...
+	1. Every decision is packaged with anxiety
+	2. Anger is an outcome of fear.
+	3. http://www.jamesaltucher.com/  
+	
