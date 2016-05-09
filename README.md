@@ -362,7 +362,7 @@
 
 ### Functional Programming Notes - Eric Eliott 
 	1. https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-### Procrastinaiton - Science behind it
+### Procrastination - Science behind it
 	1. https://www.psychologicalscience.org/index.php/publications/observer/2013/april-13/why-wait-the-science-behind-procrastination.html
 ### Good daily routine - How to attain it
 	1. https://www.linkedin.com/pulse/how-manger-your-daily-routine-chandrashekhar-kumar-pmp-pmi-acp-itil  
