@@ -359,3 +359,6 @@
 	   about working isn’t something that needs to be eradicated or transformed into positivity. 
 	   You can coexist with it. You can note the procrastinatory feelings and work anyway."
 	2. For more: http://nymag.com/scienceofus/2016/04/this-is-the-best-advice-on-motivation-i-have-ever-read.html
+
+### Functional Programming Notes - Eric Eliott 
+	1. https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
