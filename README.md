@@ -352,5 +352,10 @@
 	3. http://www.jamesaltucher.com/  
 	
 ### Motivation - Do we really need it ?
-	1. "Who says you need to wait until you ‘feel like’ doing something in order to start doing it? The problem, from this perspective, isn’t that you don’t feel motivated; it’s that you imagine you need to feel motivated. … If you can regard your thoughts and emotions about whatever you’re procrastinating on as passing weather, you’ll realise that your reluctance about working isn’t something that needs to be eradicated or transformed into positivity. You can coexist with it. You can note the procrastinatory feelings and work anyway."
+	1. "Who says you need to wait until you ‘feel like’ doing something in order to start doing it? 
+	   The problem, from this perspective, isn’t that you don’t feel motivated; 
+	   it’s that you imagine you need to feel motivated. … If you can regard your thoughts 
+	   and emotions about whatever you’re  procrastinating on as passing weather, you’ll realise that your reluctance 
+	   about working isn’t something that needs to be eradicated or transformed into positivity. 
+	   You can coexist with it. You can note the procrastinatory feelings and work anyway."
 	2. For more: http://nymag.com/scienceofus/2016/04/this-is-the-best-advice-on-motivation-i-have-ever-read.html
