@@ -368,3 +368,5 @@
 	1. https://www.linkedin.com/pulse/how-manger-your-daily-routine-chandrashekhar-kumar-pmp-pmi-acp-itil  
 	2. [Great one written by my friend]
 	
+### Monads - In Plain English
+	1. http://www.russbishop.net/monoids-monads-and-functors
