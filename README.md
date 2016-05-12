@@ -93,6 +93,9 @@
     6. "Formal education will make you a living; self-education will make you a fortune." - Jim Rohn     
     7.	Processes will help you reach 80%, remaining 20% has to be met by attitude
     8.  Ever tried. Ever failed. No matter. Try Again. Fail again. Fail BETTER.
+    9. "I only went out for a walk and finally concluded to stay out till sundown, 
+    	for going out, I found, was really going in." -John Muir
+
 
 
     
