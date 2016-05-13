@@ -376,4 +376,8 @@
 	
 ### Distributed Systems - Readings
 	1. http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/
+
+### Spark - Readings
+	1. http://www.dreamincode.net/forums/topic/377716-a-functional-programming-primer-for-spark/
+	
 	
