@@ -373,3 +373,7 @@
 	
 ### Monads - In Plain English
 	1. http://www.russbishop.net/monoids-monads-and-functors
+	
+### Distributed Systems - Readings
+	1. http://the-paper-trail.org/blog/distributed-systems-theory-for-the-distributed-systems-engineer/
+	
