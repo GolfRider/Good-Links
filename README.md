@@ -380,4 +380,7 @@
 ### Spark - Readings
 	1. http://www.dreamincode.net/forums/topic/377716-a-functional-programming-primer-for-spark/
 	
+### Finagle & Linkerd [Interesting Distributed Systems Libraries]
+	1. http://vkostyukov.net/posts/finagle-101/
+	2. https://linkerd.io
 	
