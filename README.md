@@ -95,6 +95,7 @@
     8.  Ever tried. Ever failed. No matter. Try Again. Fail again. Fail BETTER.
     9. "I only went out for a walk and finally concluded to stay out till sundown, 
     	for going out, I found, was really going in." -John Muir
+    10. "Courage is the most important of all virtues,because without it we can't practice any other virtue with consistency"	
 
 
 
