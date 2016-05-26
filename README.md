@@ -97,7 +97,8 @@
     	for going out, I found, was really going in." -John Muir
     10. "Courage is the most important of all virtues,because without it we can't practice 
     	any other virtue with consistency"	
-    11. A person who feels appreciated will allways do more than what is expected 	
+    11. A person who feels appreciated will allways do more than what is expected 
+    12. Valuing/Prioritizing Time over Money is associated with greater happiness/well being " - Psychology Research
 
 
 
