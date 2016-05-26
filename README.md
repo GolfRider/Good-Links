@@ -99,6 +99,11 @@
     	any other virtue with consistency"	
     11. A person who feels appreciated will allways do more than what is expected 
     12. Valuing/Prioritizing Time over Money is associated with greater happiness/well being " - Psychology Research
+    13. Extensive usage of Internet causes burn-outs, depressions, lack of motivation, lack of desire to work-hard in teens
+    14. Time well spent : http://timewellspent.io/
+    15. How technology exhausts our time: 				
+    	https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.qcdpzpdw5
+    16. Time is more important than money for your health+hapiness	
 
 
 
