@@ -106,6 +106,10 @@
     16. Time is more important than money for your health+hapiness	
     17. Don't waste your time, otherwise time will waste you
     18. Learning never exhausts the mind - Da Vinci
+    
+    
+### On IQ
+	1. http://www.vox.com/2016/5/25/11683192/iq-testing-intelligence
 
 
 
