@@ -104,6 +104,8 @@
     15. How technology exhausts our time: 				
     	https://medium.com/@tristanharris/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3#.qcdpzpdw5
     16. Time is more important than money for your health+hapiness	
+    17. Don't waste your time, otherwise time will waste you
+    18. Learning never exhausts the mind - Da Vinci
 
 
 
