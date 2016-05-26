@@ -399,3 +399,6 @@
 	1. http://vkostyukov.net/posts/finagle-101/
 	2. https://linkerd.io
 	
+### Quora
+	1. https://www.quora.com/How-do-I-work-harder-in-life-and-be-more-motivated-to-become-super-successful-in-life 
+	2.  [Read all answers]
