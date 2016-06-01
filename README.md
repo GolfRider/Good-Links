@@ -405,4 +405,5 @@
 ### Systems Readings
 	1. 500 or less : http://aosabook.org/en/500L/
 	2. Blockchain 
-	1. instantclient-sdk-linux.x64-12.1.0.2.0.zip
+### Combinatorical Music Theory
+	1. http://andrewduncan.net/cmt/
