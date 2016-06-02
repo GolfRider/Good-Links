@@ -408,3 +408,6 @@
 	2. Blockchain 
 ### Combinatorical Music Theory
 	1. http://andrewduncan.net/cmt/
+
+### Jon Westenberg  -- [Mission to help thousands of entrepeneurs]
+	1. http://jonwestenberg.com/new-blog/
