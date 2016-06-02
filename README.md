@@ -311,6 +311,7 @@
 	
 ### Rejection Therapy
 	1. http://rejectiontherapy.com/  ["Rejection is success with Rejection Therapy"]
+	2. "When you get rejection, it’s a call to action. It’s a piece of positive feedback that says you’re not ready just yet, but someday you might be. Someday you could be. Someday…you will be. " - [http://jonwestenberg.com/new-blog/]
 
 ### Promises / Functional Approach
 	“So we’ve created a correct optimizing module loader with barely any code, simply by using a graph of lazy promises. 
