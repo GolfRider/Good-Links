@@ -409,5 +409,6 @@
 ### Combinatorical Music Theory
 	1. http://andrewduncan.net/cmt/
 
-### Jon Westenberg  -- [Mission to help thousands of entrepeneurs]
+### Jon Westenberg  -- [Mission to help thousands of entrepeneurs] 
 	1. http://jonwestenberg.com/new-blog/
+	2. Simple-yet-powerful advices
