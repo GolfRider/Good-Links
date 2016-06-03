@@ -412,3 +412,7 @@
 ### Jon Westenberg  -- [Mission to help thousands of entrepeneurs] 
 	1. http://jonwestenberg.com/new-blog/
 	2. Simple-yet-powerful advices
+### Big Data 
+	1. http://www.jesse-anderson.com/big-data-engineering/ 
+### Mobile & Future Apps
+	1. http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html
