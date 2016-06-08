@@ -416,3 +416,9 @@
 	1. http://www.jesse-anderson.com/big-data-engineering/ 
 ### Mobile & Future Apps
 	1. http://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html
+
+### Machine Learning Simple Examples
+	1. https://medium.com/xeneta/boosting-sales-with-machine-learning-fbcf2e618be3
+	
+### Distributued Systems Blog
+	1. https://highlyscalable.wordpress.com/author/highlyscalable/
