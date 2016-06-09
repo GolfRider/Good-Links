@@ -422,3 +422,6 @@
 	
 ### Distributued Systems Blog
 	1. https://highlyscalable.wordpress.com/author/highlyscalable/
+
+### Tips for Career Development 
+	1. https://80000hours.org/career-guide/how-to-get-a-job/
