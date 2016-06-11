@@ -425,3 +425,6 @@
 
 ### Tips for Career Development 
 	1. https://80000hours.org/career-guide/how-to-get-a-job/
+
+### Blockchain
+	1. http://www.collaborative.com/blog/blockchain-more-than-bitcoin/
