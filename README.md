@@ -431,7 +431,9 @@
 
 ### Resuability Myth
 	1. https://dzone.com/articles/the-write-once-reuse-many-times-myth
-	2. "You won’t write once – especially if your team lacks hard-won experience to 
+	2. https://artofsoftwarereuse.com/2016/06/07/ideas-on-minimal-design-for-iterations/
+	3. https://artofsoftwarereuse.com [Great insights in to software design+delivery..!!] 
+	4. "You won’t write once – especially if your team lacks hard-won experience to 
 	    create high-quality abstractions. Embrace the idea that you will write something 
 	    multiple times – not because it is desirable, more because it is inevitable. 
 	    Deliver value to your business iteratively and deepen your understanding of both the 
