@@ -438,3 +438,6 @@
 	    problem and solution spaces. 
 	    You will be pleasantly surprised with the results. Remember, pursuing reuse 
 	    without continuous value is the wrong goal."
+
+### Gartner Magic Quadrant - Cloud Players
+	1. https://www.gartner.com/doc/reprints?id=1-2G2O5FC&ct=150519
