@@ -106,6 +106,8 @@
     16. Time is more important than money for your health+hapiness	
     17. Don't waste your time, otherwise time will waste you
     18. Learning never exhausts the mind - Da Vinci
+    19. "A beginning is a very delicate time, use it wisely" :-)
+    20. To handle yourself, use your head; to handle others, use your heart - E Roosevelt
     
     
 ### On IQ
@@ -176,6 +178,7 @@
     http://blog.reactandbethankful.com/posts/2015/09/15/understanding-the-functional-revolution/
      
 ### Software Design
+    Architecture : How you partition your design space ? [This is the key..!!]	
     Simplicity -- the design must be simple, both in implementation and interface. 
                   It is more important for the implementation to be  
                   simple than the interface. Simplicity is the most important consideration in a design.
