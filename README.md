@@ -446,3 +446,6 @@
 
 ### Gartner Magic Quadrant - Cloud Players
 	1. https://www.gartner.com/doc/reprints?id=1-2G2O5FC&ct=150519
+	
+### Indian New Tech Intitiatives
+	1. http://techcrunch.com/2016/06/14/indias-fintech-revolution-is-primed-to-put-banks-out-of-business/
