@@ -454,3 +454,7 @@
 	1. https://paul.kinlan.me/serverless-sync-in-web-apps/    // with webtorrent
 	2. https://stratechery.com/2016/the-future-of-podcasting/  //read-later goodone
 	
+### Hardening & Security
+	1. https://www.inversoft.com/guides/2016-guide-to-user-data-security
+	2. http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/
+	
