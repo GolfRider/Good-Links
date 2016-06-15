@@ -452,4 +452,5 @@
 	
 ### Serverless Data Sync in Web Apps with Bit Torrent
 	1. https://paul.kinlan.me/serverless-sync-in-web-apps/    // with webtorrent
+	2. https://stratechery.com/2016/the-future-of-podcasting/  //read-later goodone
 	
