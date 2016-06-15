@@ -449,3 +449,7 @@
 	
 ### Indian New Tech Intitiatives
 	1. http://techcrunch.com/2016/06/14/indias-fintech-revolution-is-primed-to-put-banks-out-of-business/
+	
+### Serverless Data Sync in Web Apps with Bit Torrent
+	1. https://paul.kinlan.me/serverless-sync-in-web-apps/    // with webtorrent
+	
