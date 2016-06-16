@@ -471,3 +471,10 @@
 	
 ### Simple Rules to Manage your time daily
 	1. http://www.mrmoneymustache.com/2015/11/15/three-investments/  [Simple+Great]
+	
+### Cheap Cloud Hosting Options
+	1. Digital Ocean
+	2. http://packet.net
+	
+### New & Affordable Motors
+	1. https://localmotors.com  [Interesting]
