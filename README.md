@@ -458,3 +458,6 @@
 	1. https://www.inversoft.com/guides/2016-guide-to-user-data-security
 	2. http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/
 	
+### Simple to way to build & host a website
+	1. https://dinosaurscode.xyz/tips/2016/06/13/how-to-build-a-website-from-scratch/
+	
