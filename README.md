@@ -461,3 +461,11 @@
 ### Simple to way to build & host a website
 	1. https://dinosaurscode.xyz/tips/2016/06/13/how-to-build-a-website-from-scratch/
 	
+### Some more Scala stuff
+	1. https://dzone.com/articles/scala-and-more%E2%80%A6links
+	2. https://www.voxxed.com/blog/2015/10/scala-tutorial-getting-started-with-scala/
+	3. https://speakerdeck.com/agemooij/between-zero-and-hero-scala-tips-and-tricks-for-the-intermediate-scala-developer
+	4. http://www.codecommit.com/blog/scala/roundup-scala-for-java-refugees
+	5. http://rea.tech/java-to-scala-cheatsheet/
+	
+	
