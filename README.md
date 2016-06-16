@@ -469,3 +469,5 @@
 	5. http://rea.tech/java-to-scala-cheatsheet/
 	
 	
+### Simple Rules to Manage your time daily
+	1. http://www.mrmoneymustache.com/2015/11/15/three-investments/  [Simple+Great]
