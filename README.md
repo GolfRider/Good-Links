@@ -481,6 +481,10 @@
 ### Simple trick to tacke Procrastination
 	1. http://shyal.com/blog/a-simple-mind-hack-that-helps-beat-procrastination
 	2. And more importantly reduce the mental load in general
+	3. MORE IMPORTANTLY : when you get ambitious/overwhelming with any list of tasks
+			      YOU END UP DOING WITH NOTHING. PLEASE BEWARE...!!	
+                              Instead start small, and just do one thing,
+			       Then the next thing & SO ON. [Simple but often Hard :-)]   
 
 ### 20 Cognitive Bias
 	1.http://www.businessinsider.com/cognitive-biases-that-affect-decisions-2015-8
