@@ -478,3 +478,9 @@
 	
 ### New & Affordable Motors
 	1. https://localmotors.com  [Interesting]
+### Simple trick to tacke Procrastination
+	1. http://shyal.com/blog/a-simple-mind-hack-that-helps-beat-procrastination
+	2. And more importantly reduce the mental load in general
+
+### 20 Cognitive Bias
+	1.http://www.businessinsider.com/cognitive-biases-that-affect-decisions-2015-8
