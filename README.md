@@ -488,3 +488,6 @@
 
 ### 20 Cognitive Bias
 	1.http://www.businessinsider.com/cognitive-biases-that-affect-decisions-2015-8
+
+### 21 Fintech Startup
+	1. Plaid.com [API oriented]
