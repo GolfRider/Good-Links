@@ -505,3 +505,7 @@
 	
 ### Scala + Lambda Calculus
 	1. https://violoncello2011.wordpress.com/2014/04/22/introduction-to-lambda-calculus/  [Cool stuff]
+	
+### Immigration + Legal + Startups - Discussion on HN
+	1. https://news.ycombinator.com/item?id=11972135
+	
