@@ -502,3 +502,6 @@
 
 ### WiseGeek
 	1. http://www.wisegeek.com/
+	
+### Scala + Lambda Calculus
+	1. https://violoncello2011.wordpress.com/2014/04/22/introduction-to-lambda-calculus/  [Cool stuff]
