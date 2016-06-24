@@ -491,3 +491,6 @@
 
 ### 21 Fintech Startup
 	1. Plaid.com [API oriented]
+
+### Automation of design
+	1. https://techcrunch.com/2016/06/23/the-automation-of-design/  [AI powered design automation, cool :-) ]
