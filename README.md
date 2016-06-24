@@ -496,3 +496,9 @@
 	1. https://techcrunch.com/2016/06/23/the-automation-of-design/  [AI powered design automation, cool :-) ]
 	2.  Quote from the article: "Basically, their AI is making the decisions of a visual designer"
 	3.  "Everything that can be automated , will be automated"
+
+### ModerFarmer
+	1. http://modernfarmer.com/
+
+### WiseGeek
+	1. http://www.wisegeek.com/
