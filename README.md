@@ -509,3 +509,12 @@
 ### Immigration + Legal + Startups - Discussion on HN
 	1. https://news.ycombinator.com/item?id=11972135
 	
+### Scaling Elastic Search - Field Notes
+	1. https://grey-boundary.io/field-notes-elasticsearch-at-petabyte-scale-on-aws/
+	
+### Bret Victor - Design Guru
+	1. http://worrydream.com/
+
+	
+	 
+	
