@@ -514,6 +514,9 @@
 	
 ### Bret Victor - Design Guru
 	1. http://worrydream.com/
+	
+### Clear your Mind
+	1. http://www.wsj.com/articles/steps-to-turn-off-the-nagging-self-doubt-in-your-head-1465838679
 
 	
 	 
