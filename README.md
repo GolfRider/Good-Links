@@ -517,6 +517,14 @@
 	
 ### Clear your Mind
 	1. http://www.wsj.com/articles/steps-to-turn-off-the-nagging-self-doubt-in-your-head-1465838679
+	
+### Obstacle is the way- Ryan Holiday
+	1. https://www.amazon.com/Obstacle-Way-Timeless-Turning-Triumph/
+	
+### Productivity Article
+	1. https://medium.com/the-politic/busy-people-work-smarter-bd023e14e62c
+	
+	
 
 	
 	 
