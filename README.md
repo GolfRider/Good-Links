@@ -524,6 +524,10 @@
 ### Productivity Article
 	1. https://medium.com/the-politic/busy-people-work-smarter-bd023e14e62c
 	
+### How to build stable systems
+	1. https://medium.com/@jlouis666/how-to-build-stable-systems-6fe9dcf32fc4#.gnka3tsbs [Great read]
+	
+	
 	
 
 	
