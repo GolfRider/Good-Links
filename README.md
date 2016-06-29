@@ -526,6 +526,7 @@
 	
 ### How to build stable systems
 	1. https://medium.com/@jlouis666/how-to-build-stable-systems-6fe9dcf32fc4#.gnka3tsbs [Great read]
+	2. https://medium.com/@jlouis666/on-functional-programming-df28cc9078de#.50qkl6ddp
 	
 	
 	
