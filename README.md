@@ -528,6 +528,17 @@
 	1. https://medium.com/@jlouis666/how-to-build-stable-systems-6fe9dcf32fc4#.gnka3tsbs [Great read]
 	2. https://medium.com/@jlouis666/on-functional-programming-df28cc9078de#.50qkl6ddp
 	
+
+### Singularity / Singularity University
+	1. http://singularityhub.com/2016/06/27/why-the-world-is-better-than-you-think-in-10-powerful-charts/
+	2. http://singularityhub.com/2015/02/05/book-review-peter-diamandiss-bold-a-reminder-of-how-entrepreneurs-will-control-the-worlds-fate/
+	
+### Urbit (Too far into the future?) 
+	1. https://urbit.org/posts/address-space/
+	2. https://urbit.org
+	
+	
+	
 	
 	
 
