@@ -537,6 +537,11 @@
 	1. https://urbit.org/posts/address-space/
 	2. https://urbit.org
 	
+### Distributed Tracing/Messaging
+	1. Nats.io
+	2. http://lightstep.com/
+	
+	
 	
 	
 	
