@@ -540,6 +540,9 @@
 ### Distributed Tracing/Messaging
 	1. Nats.io
 	2. http://lightstep.com/
+
+### Nginx Streaming
+	1. https://www.nginx.com/blog/globo-com-delivers-live-video-streaming-to-500000-viewers-with-nginx/
 	
 	
 	
